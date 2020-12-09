@@ -8,4 +8,4 @@
 This app contains two pages with pics and login realisation.
 
  #### CoinsOnlineMVP
-This app is a MVP pattern realisation of Coins-Online with was written with MVVM
+This app is a MVP pattern realisation of Coins-Online with was written with MVVM. This app does not include aac
